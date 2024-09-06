@@ -40,25 +40,3 @@ Se você quiser ajudar a melhorar essa aplicação, fique à vontade para abrir 
 
 **#olimpiadas #atletasbrasileiros #busca #javascript #html #css**
 
-**[Inserir imagem da aplicação funcionando]**
-
-**[Link para o repositório]**
-
-**[Link para a página da aplicação]**
-
-**[Seções opcionais:**
-* **Contribuidores:** Lista de pessoas que contribuíram para o projeto.
-* **Licença:** Informa a licença utilizada para o projeto.
-* **Agradecimentos:** Agradeça a pessoas ou projetos que te ajudaram.
-* **Próximos passos:** Mencione futuras melhorias ou funcionalidades.]
-
-**Lembre-se de adaptar este README.md de acordo com as especificidades do seu projeto.** 
-
-**Dicas:**
-
-* Use markdown para formatar o texto.
-* Adicione imagens para ilustrar o projeto.
-* Seja claro e objetivo nas suas explicações.
-* Use hashtags relevantes para facilitar a busca.
-
-Com este README.md, você terá um guia completo e informativo para o seu projeto no GitHub!
